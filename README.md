@@ -1,7 +1,7 @@
 ### Hello there 👋
 ![banner showing print("hi! my name is Awatef")](gitbanner.png)
 
-I’m a data science student, with interests in machine learning, cybersecurity and cloud engineering. I also have a bachelor's degree in Economics. I'm passionate about data especially in it use towards solving worls problems. I would also love to collaborate on anything that touches on sustainable development.
+I’m a junior data scientist, with interests in machine learning, cybersecurity and cloud engineering. I also have a bachelor's degree in Economics. I'm passionate about data especially in it use towards solving world problems. I would also love to collaborate on anything that touches on sustainable development.
 
 ## Fun facts:
 
